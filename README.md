@@ -104,6 +104,8 @@ page4:
 
 ## OUTPUT:
 
+![Screenshot (82)](https://github.com/ADARSH778/Figma/assets/149347361/1d291349-a708-4cf1-abe5-6779577090e1)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
